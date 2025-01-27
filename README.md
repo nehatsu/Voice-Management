@@ -10,6 +10,8 @@ discordの使用上付与させたいロールがbotのロールの下にある�
 https://discord.com/oauth2/authorize?client_id=1285114704670228513&permissions=8&integration_type=0&scope=bot+applications.commands
 ## サポートサーバー
 https://discord.gg/vz5GGc2uWC
+## プライバシーポリシー
+https://gist.github.com/nehatsu/031e68c0f3891005631e032b5fecdba7
 # 使い方
 /add_role　付与させたいロール　付与するのに必要な時間(hour)  
 /remove_role 剝奪させたいロール　剥奪するのに必要な時間(hour)  
